@@ -1,0 +1,468 @@
+{
+    "2408.15240": {
+        "authors": {
+            "Lunjun Zhang": "University of Toronto",
+            "Arian Hosseini": "Mila",
+            "Hritik Bansal": "UCLA",
+            "Mehran Kazemi": "Google DeepMind",
+            "Aviral Kumar": "Google DeepMind",
+            "Rishabh Agarwal": "Google DeepMind"
+        }
+    },
+    "2408.15237": {
+        "authors": {
+            "Junxiong Wang": "Cornell University",
+            "Daniele Paliotta": "University of Geneva",
+            "Avner May": "Together AI",
+            "Alexander M. Rush": "Cornell University",
+            "Tri Dao": "Princeton University"
+        }
+    },
+    "2408.15221": {
+        "authors": {
+            "Nathaniel Li": "Scale AI, UC Berkeley",
+            "Ziwen Han": "Scale AI",
+            "Ian Steneker": "Scale AI",
+            "Willow Primack": "Scale AI",
+            "Riley Goodside": "Scale AI",
+            "Hugh Zhang": "Scale AI",
+            "Zifan Wang": "Scale AI",
+            "Cristina Menghini": "Scale AI",
+            "Summer Yue": "Scale AI"
+        }
+    },
+    "2408.15207": {
+        "authors": {
+            "Shide Zhou": "Huazhong University of Science and Technology",
+            "Tianlin Li": "Nanyang Technological University",
+            "Kailong Wang": "Huazhong University of Science and Technology",
+            "Yihao Huang": "Nanyang Technological University",
+            "Ling Shi": "Nanyang Technological University",
+            "Yang Liu": "Nanyang Technological University",
+            "Haoyu Wang": "Huazhong University of Science and Technology"
+        }
+    },
+    "2408.15205": {
+        "authors": {
+            "Jian Hu": "Queen Mary University of London",
+            "Jiayi Lin": "Queen Mary University of London",
+            "Junchi Yan": "Shanghai Jiao Tong University",
+            "Shaogang Gong": "Queen Mary University of London"
+        }
+    },
+    "2408.15204": {
+        "authors": {
+            "Kristina Gligori\u00b4": "Stanford University",
+            "Tijana Zrnic\u22c6": "Stanford University",
+            "Cinoo Lee\u22c6": "Stanford University",
+            "Emmanuel J. Cand\u00e8s": "Stanford University",
+            "Dan Jurafsky": "Stanford University"
+        }
+    },
+    "2408.15176": {
+        "authors": {
+            "Longshen Ou": "Sound and Music Computing Lab, School of Computing, NUS",
+            "Jingwei Zhao": "Sound and Music Computing Lab, School of Computing, NUS",
+            "Ziyu Wang": "Music X Lab, MBZUAI",
+            "Gus Xia": "Music X Lab, MBZUAI",
+            "Ye Wang": "Sound and Music Computing Lab, School of Computing, NUS"
+        }
+    },
+    "2408.15172": {
+        "authors": {
+            "Hanjia Lyu": "University of Rochester",
+            "Ryan Rossi": "Adobe Research",
+            "Xiang Chen": "Adobe Research",
+            "Md Mehrab Tanjim": "Adobe Research",
+            "Stefano Petrangeli": "Adobe Research",
+            "Somdeb Sarkhel": "Adobe Research",
+            "Jiebo Luo": "University of Rochester"
+        }
+    },
+    "2408.15171": {
+        "authors": {
+            "Nicolas Kriman F.": "Georgia Institute of Technology"
+        }
+    },
+    "2408.15079": {
+        "authors": {
+            "Guosheng Dong": "Baichuan Inc.",
+            "Da Pan": "Baichuan Inc.",
+            "Yiding Sun": "Baichuan Inc.",
+            "Shusen Zhang": "Baichuan Inc.",
+            "Zheng Liang": "Baichuan Inc.",
+            "Xin Wu": "Baichuan Inc.",
+            "Yanjun Shen": "Baichuan Inc.",
+            "Fan Yang": "Baichuan Inc.",
+            "Haoze Sun": "Baichuan Inc.",
+            "Tianpeng Li": "Baichuan Inc.",
+            "Mingan Lin": "Baichuan Inc.",
+            "Jianhua Xu": "Baichuan Inc.",
+            "Yufan Zhang": "Baichuan Inc.",
+            "Xiaonan Nie": "Baichuan Inc.",
+            "Lei Su": "Baichuan Inc.",
+            "Bingning Wang": "Baichuan Inc.",
+            "Wentao Zhang": "Peking University",
+            "Jiaxin Mao": "Gaoling School of Artificial Intelligence, Renmin University of China",
+            "Zenan Zhou": "Baichuan Inc.",
+            "Weipeng Chen": "Baichuan Inc."
+        }
+    },
+    "2408.15066": {
+        "authors": {
+            "NED COOPER": "Australian National University, Australia",
+            "ALEXANDRA ZAFIROGLU": "Australian National University, Australia"
+        }
+    },
+    "2408.15045": {
+        "authors": {
+            "Wenhui Liao": "South China University of Technology, Guangzhou, China",
+            "Jiapeng Wang": "South China University of Technology, Guangzhou, China",
+            "Hongliang Li": "South China University of Technology, Guangzhou, China",
+            "Chengyu Wang": "Alibaba Group, Hangzhou, China",
+            "Jun Huang": "Alibaba Group, Hangzhou, China",
+            "Lianwen Jin": "South China University of Technology, Guangzhou, China"
+        }
+    },
+    "2408.15040": {
+        "authors": {
+            "Wazir Ali": "TurkuNLP Group, The University of Turku, FI-20014, Finland; Institute of Business Management, 75190, Pakistan",
+            "Sampo Pyysalo": "TurkuNLP Group, The University of Turku, FI-20014, Finland"
+        }
+    },
+    "2408.14972": {
+        "authors": {
+            "Chi-Min Chan": "Hong Kong University of Science and Technology",
+            "Jianxuan Yu": "Tsinghua University",
+            "Weize Chen": "Tsinghua University",
+            "Chunyang Jiang": "Hong Kong University of Science and Technology",
+            "Xinyu Liu": "Hong Kong University of Science and Technology",
+            "Weijie Shi": "Hong Kong University of Science and Technology",
+            "Zhiyuan Liu": "Tsinghua University",
+            "Wei Xue": "Hong Kong University of Science and Technology",
+            "Yike Guo": "Hong Kong University of Science and Technology"
+        }
+    },
+    "2408.14964": {
+        "authors": {
+            "Sagar Srinivas": "TCS Research",
+            "Venkataramana Runkana": "TCS Research"
+        }
+    },
+    "2408.14909": {
+        "authors": {
+            "Shuaijie Shen": "Department of Computer Science and Engineering, Southern University of Science and Technology",
+            "Chao Wang": "Department of Computer Science and Engineering, Southern University of Science and Technology",
+            "Renzhuo Huang": "Department of Computer Science and Engineering, Southern University of Science and Technology",
+            "Yan Zhong": "School of Mathematical Sciences, Peking University",
+            "Qinghai Guo": "ACSLab, Huawei Technologies Co., Ltd.",
+            "Zhichao Lu": "Department of Computer Science, City University of Hong Kong",
+            "Jianguo Zhang": "Department of Computer Science and Engineering, Southern University of Science and Technology",
+            "Luziwei Leng": "ACSLab, Huawei Technologies Co., Ltd."
+        }
+    },
+    "2408.14906": {
+        "authors": {
+            "Melisa Russak": "Writer, Inc.",
+            "Umar Jamil": "Writer, Inc.",
+            "Christopher Bryant": "Writer, Inc.",
+            "Kiran Kamble": "Writer, Inc.",
+            "Axel Magnuson": "Writer, Inc.",
+            "Mateusz Russak": "Writer, Inc.",
+            "Waseem AlShikh": "Writer, Inc."
+        }
+    },
+    "2408.14874": {
+        "authors": {
+            "Han Xia": "School of Computer Science, Fudan University",
+            "Songyang Gao": "Shanghai Artificial Intelligence Laboratory",
+            "Qiming Ge": "School of Computer Science, Fudan University",
+            "Zhiheng Xi": "School of Computer Science, Fudan University",
+            "Qi Zhang": "School of Computer Science, Fudan University",
+            "Xuanjing Huang": "School of Computer Science, Fudan University"
+        }
+    },
+    "2408.14866": {
+        "authors": {
+            "Hongfu Liu": "National University of Singapore",
+            "Yuxi Xie": "National University of Singapore",
+            "Ye Wang": "National University of Singapore",
+            "Michael Shieh": "National University of Singapore"
+        }
+    },
+    "2408.14853": {
+        "authors": {
+            "Yuhao Du": "Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong, Shenzhen",
+            "Zhuo Li": "Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong, Shenzhen",
+            "Pengyu Cheng": "Tencent AI Lab",
+            "Xiang Wan": "Shenzhen Research Institute of Big Data",
+            "Anningzhe Gao": "Shenzhen Research Institute of Big Data"
+        }
+    },
+    "2408.14845": {
+        "authors": {
+            "Abhay Gupta": "Algoverse AI Research",
+            "Philip Meng": "Algoverse AI Research",
+            "Ece Yurtseven": "Algoverse AI Research",
+            "Sean O\u2019Brien": "Algoverse AI Research",
+            "Kevin Zhu": "Algoverse AI Research"
+        }
+    },
+    "2408.14834": {
+        "authors": {
+            "Zinan Wang": "zinanwang-paper@outlook.com"
+        }
+    },
+    "2408.14830": {
+        "authors": {
+            "Ashish Hooda": "University of Wisconsin-Madison",
+            "Rishabh Khandelwal": "University of Wisconsin-Madison",
+            "Prasad Chalasani": "Langroid",
+            "Kassem Fawaz": "University of Wisconsin-Madison",
+            "Somesh Jha": "University of Wisconsin-Madison"
+        }
+    },
+    "2408.14812": {
+        "authors": {
+            "Yubin Wang": "Department of Computer Science and Technology, Tongji University, Shanghai, China",
+            "Xinyang Jiang": "Microsoft Research Asia, Shanghai, China",
+            "De Cheng": "School of Telecommunications Engineering, Xidian University, Xi\u2019an, China",
+            "Wenli Sun": "Department of Computer Science and Technology, Tongji University, Shanghai, China",
+            "Dongsheng Li": "Microsoft Research Asia, Shanghai, China",
+            "Cairong Zhao": "Department of Computer Science and Technology, Tongji University, Shanghai, China"
+        }
+    },
+    "2408.14772": {
+        "authors": {
+            "Haley Lepp": "Stanford University",
+            "Parth Sarin": "Stanford University"
+        }
+    },
+    "2408.14750": {
+        "authors": {
+            "Haven Kim": "University of California San Diego",
+            "Kahyun Choi": "University of Illinois at Urbana-Champaign"
+        }
+    },
+    "2408.14744": {
+        "authors": {
+            "RSTeller": "School of Electronic Engineering, Xidian University, Xi\u2019an, Shaanxi 710071, China",
+            "Junyao Ge": "School of Electronic Engineering, Xidian University, Xi\u2019an, Shaanxi 710071, China",
+            "Yang Zheng": "School of Electronic Engineering, Xidian University, Xi\u2019an, Shaanxi 710071, China",
+            "Kaitai Guo": "School of Electronic Engineering, Xidian University, Xi\u2019an, Shaanxi 710071, China",
+            "Jimin Liang": "School of Electronic Engineering, Xidian University, Xi\u2019an, Shaanxi 710071, China"
+        }
+    },
+    "2408.14721": {
+        "authors": {
+            "Yijiang Liu": "Nanjing University",
+            "Huanrui Yang": "University of Arizona",
+            "Youxin Chen": "Samsung",
+            "Rongyu Zhang": "Nanjing University",
+            "Miao Wang": "Nanjing University",
+            "Yuan Du": "Nanjing University",
+            "Li Du": "Nanjing University"
+        }
+    },
+    "2408.14713": {
+        "authors": {
+            "Haowei Lou": "University of New South Wales",
+            "Helen Paik": "University of New South Wales",
+            "Wen Hu": "University of New South Wales",
+            "Lina Yao": "University of New South Wales"
+        }
+    },
+    "2408.14690": {
+        "authors": {
+            "James Liu": "Massachusetts Institute of Technology",
+            "Pragaash Ponnusamy": "Together AI",
+            "Tianle Cai": "Princeton University",
+            "Han Guo": "Massachusetts Institute of Technology",
+            "Yoon Kim": "Massachusetts Institute of Technology",
+            "Ben Athiwaratkun": "Together AI"
+        }
+    },
+    "2408.14623": {
+        "authors": {
+            "Yingqiang Gao": "Institute of Neuroinformatics, University of Zurich and ETH Zurich, Switzerland",
+            "Jessica Lam": "Institute of Neuroinformatics, University of Zurich and ETH Zurich, Switzerland",
+            "Richard H.R. Hahnloser": "Institute of Neuroinformatics, University of Zurich and ETH Zurich, Switzerland",
+            "Jhony Prada": "ETH Zurich, Switzerland",
+            "Nianlong Gu": "Linguistic Research Infrastructure, University of Zurich, Switzerland"
+        }
+    },
+    "2408.14622": {
+        "authors": {
+            "DINGYI YANG": "Renmin University of China, Beijing, China",
+            "QIN JIN": "Renmin University of China, Beijing, China"
+        }
+    },
+    "2408.14594": {
+        "authors": {
+            "Jian Chen": "University at Buffalo",
+            "Ruiyi Zhang": "Adobe Research",
+            "Yufan Zhou": "Adobe Research",
+            "Ryan Rossi": "Adobe Research",
+            "Jiuxiang Gu": "Adobe Research",
+            "Changyou Chen": "University at Buffalo"
+        }
+    },
+    "2408.14575": {
+        "authors": {
+            "Edward Y. Chang": "Stanford University",
+            "Organization": "Computer Science"
+        }
+    },
+    "2408.14572": {
+        "authors": {
+            "Muhammad Fawi": "UNKNOWN"
+        }
+    },
+    "2408.14568": {
+        "authors": {
+            "Yizhan Li": "Mila - Quebec AI&University de Montreal",
+            "Sifan Wu": "Mila - Quebec AI&University de Montreal",
+            "Christopher Smith": "Goodlab Studio",
+            "Thomas Lo": "Goodlab Studio",
+            "Bang Liu": "Mila - Quebec AI&University de Montreal"
+        }
+    },
+    "2408.14520": {
+        "authors": {
+            "Qingqing Long": "Unknown",
+            "Yuchen Yan": "Unknown",
+            "Peiyan Zhang": "Unknown",
+            "Chen Fang": "Unknown",
+            "Wentao Cui": "Unknown",
+            "Zhiyuan Ning": "Unknown",
+            "Meng Xiao": "Unknown",
+            "Ning Cao": "Unknown",
+            "Xiao Luo": "Unknown",
+            "Lingjun Xu": "Unknown",
+            "Shiyue Jiang": "Unknown",
+            "Zheng Fang": "Unknown",
+            "Chong Chen": "Unknown",
+            "Xian-Sheng Hua": "Unknown",
+            "Yuanchun Zhou": "Unknown"
+        }
+    },
+    "2408.14512": {
+        "authors": {
+            "Duo Wang": "Beihang University",
+            "Yuan Zuo": "Beihang University",
+            "Fengzhi Li": "Beihang University",
+            "Junjie Wu": "Beihang University"
+        }
+    },
+    "2408.14511": {
+        "authors": {
+            "Xinyang Hu": "Unaffiliated",
+            "Fengzhuo Zhang": "Unaffiliated",
+            "Siyu Chen": "Unaffiliated",
+            "Zhuoran Yang": "Unaffiliated"
+        }
+    },
+    "2408.14504": {
+        "authors": {
+            "Heejae Chon": "Yonsei University",
+            "Seonghyeon Lee": "Pohang University of Science and Technology",
+            "Jinyoung Yeo": "Yonsei University",
+            "Dongha Lee": "Yonsei University"
+        }
+    },
+    "2408.14494": {
+        "authors": {
+            "Sakhinana Sagar Srinivas": "TCS Research",
+            "Vijay Sri Vaikunth": "IIT-Palakkad",
+            "Venkataramana Runkana": "TCS Research"
+        }
+    },
+    "2408.14471": {
+        "authors": {
+            "Karsten Roth": "T\u00fcbingen AI Center, University of T\u00fcbingen",
+            "Vishaal Udandarao": "T\u00fcbingen AI Center, University of T\u00fcbingen",
+            "Sebastian Dziadzio": "T\u00fcbingen AI Center, University of T\u00fcbingen",
+            "Ameya Prabhu": "T\u00fcbingen AI Center, University of T\u00fcbingen",
+            "Mehdi Cherti": "LAION, J\u00fclich Supercomputing Center (JSC), Research Center J\u00fclich (FZJ), Helmholtz Association",
+            "Oriol Vinyals": "Google DeepMind",
+            "Olivier H\u00e9naff": "Google DeepMind",
+            "Samuel Albanie": "T\u00fcbingen AI Center, University of T\u00fcbingen",
+            "Matthias Bethge": "T\u00fcbingen AI Center, University of T\u00fcbingen",
+            "Zeynep Akata": "Helmholtz Munich, Technical University of Munich, Munich Center for ML"
+        }
+    },
+    "2408.14470": {
+        "authors": {
+            "Aradhye Agarwal": "Indian Institute of Technology Delhi, India",
+            "Suhas Kamasetty Ramesh": "Indian Institute of Technology Delhi, India",
+            "Ayan Sengupta": "Indian Institute of Technology Delhi, India",
+            "Tanmoy Chakraborty": "Indian Institute of Technology Delhi, India"
+        }
+    },
+    "2408.14469": {
+        "authors": {
+            "Qirui Chen": "Shanghai Jiao Tong University",
+            "Shangzhe Di": "Shanghai Jiao Tong University",
+            "Weidi Xie": "Shanghai Jiao Tong University"
+        }
+    },
+    "2408.14467": {
+        "authors": {
+            "Tianyang Liu": "University of Edinburgh",
+            "Tianyi Li": "University of Edinburgh",
+            "Liang Cheng": "University of Edinburgh",
+            "Mark Steedman": "University of Edinburgh"
+        }
+    },
+    "2408.14438": {
+        "authors": {
+            "Liuchang Xu": "School of Mathematics and Computer Science, Zhejiang Agriculture and Forestry University",
+            "Shuo Zhao": "School of Mathematics and Computer Science, Zhejiang Agriculture and Forestry University",
+            "Qingming Lin": "School of Mathematics and Computer Science, Zhejiang Agriculture and Forestry University",
+            "Luyao Chen": "School of Mathematics and Computer Science, Zhejiang Agriculture and Forestry University",
+            "Qianqian Luo": "School of Mathematics and Computer Science, Zhejiang Agriculture and Forestry University",
+            "Sensen Wu": "School of Mathematics and Computer Science, Zhejiang Agriculture and Forestry University",
+            "Xinyue Ye": "Department of Landscape Architecture and Urban Planning & Center for Geospatial Sciences, Applications and Technology, Texas A&M University",
+            "Hailin Feng": "School of Mathematics and Computer Science, Zhejiang Agriculture and Forestry University",
+            "Zhenhong Du": "School of Earth Sciences, Zhejiang University"
+        }
+    },
+    "2408.14419": {
+        "authors": {
+            "Shubham Bharti": "University of Wisconsin\u2013Madison",
+            "Shiyun Cheng": "University of Wisconsin\u2013Madison",
+            "Jihyun Rho": "University of Wisconsin\u2013Madison",
+            "Martina Rau": "ETH Zurich",
+            "Xiaojin Zhu": "University of Wisconsin\u2013Madison"
+        }
+    },
+    "2408.14418": {
+        "authors": {
+            "Kuluhan Binici": "ASUS Intelligent Cloud Services (AICS), Singapore, National University of Singapore, Singapore",
+            "Abhinav Ramesh Kashyap": "Crayon Software, India",
+            "Viktor Schlegel": "Imperial College London, Imperial Global Singapore, University of Manchester, United Kingdom",
+            "Andy T. Liu": "ASUS Intelligent Cloud Services (AICS), Singapore",
+            "Vijay Prakash Dwivedi": "ASUS Intelligent Cloud Services (AICS), Singapore",
+            "Thanh-Tung Nguyen": "ASUS Intelligent Cloud Services (AICS), Singapore",
+            "Xiaoxue Gao": "Institute for Infocomm Research, A*STAR, Singapore",
+            "Nancy F. Chen": "Institute for Infocomm Research, A*STAR, Singapore",
+            "Stefan Winkler": "ASUS Intelligent Cloud Services (AICS), Singapore, National University of Singapore, Singapore"
+        }
+    },
+    "2408.14398": {
+        "authors": {
+            "Simon Kurz": "Technical University Dortmund",
+            "Jian-Jia Chen": "Technical University Dortmund",
+            "Lucie Flek": "University of Bonn",
+            "Zhixue Zhao": "University of Sheffield"
+        }
+    },
+    "2408.14387": {
+        "authors": {
+            "Sakhinana Sagar Srinivas": "TCS Research",
+            "Chidaksh Ravuru": "IIT Dharwad",
+            "Geethan Sannidhi": "IIIT Pune",
+            "Venkataramana Runkana": "TCS Research"
+        }
+    }
+}
