@@ -1,4 +1,6 @@
 #Open AI key
 Key.env
-#Database
+#Database itself
 Papers.db
+#
+/dump
