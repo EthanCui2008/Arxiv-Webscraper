@@ -2,5 +2,5 @@
 Key.env
 #Database itself
 Papers.db
-#
+#.Json Raw Dump
 /dump
